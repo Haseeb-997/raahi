@@ -1,0 +1,22 @@
+# ── Streamlit theme & server config for Raahi ──────────────────────────────────
+# Apply with: streamlit run app.py
+# Streamlit automatically reads this file from .streamlit/config.toml
+
+[theme]
+base                  = "dark"
+primaryColor          = "#00C49A"          # Raahi teal-green accent
+backgroundColor       = "#0f0f1a"          # deep dark navy
+secondaryBackgroundColor = "#1a1a2e"       # card / sidebar bg
+textColor             = "#e2e8f0"          # soft white body text
+font                  = "sans serif"
+
+# NOTE: Page layout (wide / centered) is controlled per-app in
+# st.set_page_config(layout="wide") inside app.py, not here.
+
+[server]
+runOnSave             = true               # hot-reload on file save during dev
+headless              = false              # open browser automatically
+
+[browser]
+gatherUsageStats      = false              # opt out of Streamlit telemetry
+serverAddress         = "localhost"

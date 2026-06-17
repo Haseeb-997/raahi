@@ -1,0 +1,313 @@
+{
+  "Computer Science": {
+    "salary_min_pkr": 80000,
+    "salary_max_pkr": 300000,
+    "demand": "High",
+    "saturation": "Medium",
+    "growth_outlook": "Strong",
+    "market_trend": "Growing",
+    "top_employers_pakistan": [
+      "Systems Limited",
+      "Netsol Technologies",
+      "10Pearls",
+      "Freelance/Remote",
+      "Startups"
+    ],
+    "years_to_first_job": 4,
+    "jobs_after_3_years": [
+      "Software Engineer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "QA Engineer",
+      "DevOps Engineer"
+    ],
+    "reality_note": "CS is oversaturated at entry level — portfolio matters more than CGPA. Freelancing on Upwork/Fiverr can exceed local salaries.",
+    "saturation_note": "CS is oversaturated at entry level — portfolio matters more than CGPA.",
+    "remote_work_possible": true
+  },
+  "Software Engineering": {
+    "salary_min_pkr": 85000,
+    "salary_max_pkr": 310000,
+    "demand": "High",
+    "saturation": "Medium",
+    "growth_outlook": "Strong",
+    "market_trend": "Growing",
+    "top_employers_pakistan": [
+      "Systems Limited",
+      "Netsol Technologies",
+      "Bentley Systems",
+      "Contour Software",
+      "Freelance/Remote"
+    ],
+    "years_to_first_job": 4,
+    "jobs_after_3_years": [
+      "Software Engineer",
+      "SQA Engineer",
+      "Product Manager",
+      "Systems Analyst",
+      "Solutions Architect"
+    ],
+    "reality_note": "SE graduates are largely interchangeable with CS in the job market. Practical coding skills and a GitHub portfolio matter most.",
+    "saturation_note": "Similar saturation to CS — structured curriculum gives a slight edge for enterprise and government IT roles.",
+    "remote_work_possible": true
+  },
+  "Artificial Intelligence": {
+    "salary_min_pkr": 100000,
+    "salary_max_pkr": 400000,
+    "demand": "Very High",
+    "saturation": "Low",
+    "growth_outlook": "Exceptional",
+    "market_trend": "Rapidly Growing",
+    "top_employers_pakistan": [
+      "Folio3",
+      "Tkxel",
+      "Arbisoft",
+      "Remote/International Companies",
+      "AI Startups"
+    ],
+    "years_to_first_job": 3,
+    "jobs_after_3_years": [
+      "ML Engineer",
+      "AI Researcher",
+      "Data Scientist",
+      "NLP Engineer",
+      "Computer Vision Engineer"
+    ],
+    "reality_note": "AI is the hottest field globally. Pakistan's local AI industry is nascent but remote opportunities are abundant. Strong math background is non-negotiable.",
+    "saturation_note": "Low saturation now, but filling fast — graduates from top programs (NUST, FAST) routinely land international remote roles.",
+    "remote_work_possible": true
+  },
+  "Data Science": {
+    "salary_min_pkr": 90000,
+    "salary_max_pkr": 350000,
+    "demand": "High",
+    "saturation": "Low",
+    "growth_outlook": "Strong",
+    "market_trend": "Growing",
+    "top_employers_pakistan": [
+      "HBL / UBL (Banks)",
+      "Jazz / Telenor (Telecom)",
+      "Daraz (E-commerce)",
+      "Freelance/Remote",
+      "Data Consultancies"
+    ],
+    "years_to_first_job": 4,
+    "jobs_after_3_years": [
+      "Data Analyst",
+      "Data Scientist",
+      "Business Intelligence Analyst",
+      "ML Engineer",
+      "Product Analyst"
+    ],
+    "reality_note": "Data roles in Pakistan are still maturing. Banks and telcos are the biggest local hirers. Remote work can triple your local salary.",
+    "saturation_note": "Relatively unsaturated compared to CS — Excel + SQL + Python is the baseline that most candidates still can't demonstrate well.",
+    "remote_work_possible": true
+  },
+  "Electrical Engineering": {
+    "salary_min_pkr": 70000,
+    "salary_max_pkr": 250000,
+    "demand": "Medium",
+    "saturation": "Medium",
+    "growth_outlook": "Stable",
+    "market_trend": "Stable",
+    "top_employers_pakistan": [
+      "WAPDA / NTDC",
+      "K-Electric",
+      "Huawei Pakistan",
+      "Siemens Pakistan",
+      "PTCL"
+    ],
+    "years_to_first_job": 7,
+    "jobs_after_3_years": [
+      "Electrical Engineer",
+      "Power Systems Engineer",
+      "Telecom Engineer",
+      "Embedded Systems Engineer",
+      "Control Systems Engineer"
+    ],
+    "reality_note": "Government and energy sectors are the biggest employers. Government jobs take 6-12 months via FPSC/NTS tests. Embedded hardware skills command a significant premium.",
+    "saturation_note": "Moderately saturated — NUST and UET graduates have strong placement records; mid-tier university graduates face a much harder market.",
+    "remote_work_possible": false
+  },
+  "Mechanical Engineering": {
+    "salary_min_pkr": 65000,
+    "salary_max_pkr": 220000,
+    "demand": "Medium",
+    "saturation": "High",
+    "growth_outlook": "Moderate",
+    "market_trend": "Stable",
+    "top_employers_pakistan": [
+      "Atlas Honda / Pak Suzuki",
+      "OGDCL / PPL (Oil & Gas)",
+      "Descon Engineering",
+      "FWO / Army Engineering",
+      "FMCG manufacturers"
+    ],
+    "years_to_first_job": 8,
+    "jobs_after_3_years": [
+      "Mechanical Engineer",
+      "Production Engineer",
+      "HVAC Engineer",
+      "Design Engineer",
+      "Project Engineer"
+    ],
+    "reality_note": "Pakistan's industrial base is limited. Automotive and FMCG sectors offer the best entry-level roles. Oil & Gas via OGDCL/PPL pays top salaries but is highly competitive.",
+    "saturation_note": "Highly saturated at entry level — specializing in Oil & Gas, Automation, or HVAC significantly improves employability and salary.",
+    "remote_work_possible": false
+  },
+  "Civil Engineering": {
+    "salary_min_pkr": 60000,
+    "salary_max_pkr": 200000,
+    "demand": "Medium",
+    "saturation": "High",
+    "growth_outlook": "Moderate",
+    "market_trend": "Fluctuating",
+    "top_employers_pakistan": [
+      "NHA / NLC / FWO",
+      "NESPAK",
+      "Private construction firms",
+      "Real estate developers",
+      "Gulf/UAE expat market"
+    ],
+    "years_to_first_job": 6,
+    "jobs_after_3_years": [
+      "Site Engineer",
+      "Structural Engineer",
+      "Planning Engineer",
+      "Quantity Surveyor",
+      "Project Manager"
+    ],
+    "reality_note": "Heavily dependent on CPEC and government infrastructure spending cycles. Private real estate creates work but starting salaries are low. Gulf countries are the real prize.",
+    "saturation_note": "Oversaturated in major cities — Gulf countries (KSA, UAE, Qatar) offer 3-5x Pakistani salaries for experienced civil engineers.",
+    "remote_work_possible": false
+  },
+  "BBA": {
+    "salary_min_pkr": 50000,
+    "salary_max_pkr": 180000,
+    "demand": "Medium",
+    "saturation": "Very High",
+    "growth_outlook": "Moderate",
+    "market_trend": "Stable",
+    "top_employers_pakistan": [
+      "Unilever / P&G / Nestle",
+      "HBL / MCB / UBL (Banking)",
+      "Deloitte / KPMG Pakistan",
+      "Startups",
+      "E-commerce / Retail"
+    ],
+    "years_to_first_job": 5,
+    "jobs_after_3_years": [
+      "Marketing Executive",
+      "Sales Manager",
+      "Business Development Officer",
+      "HR Associate",
+      "Operations Analyst"
+    ],
+    "reality_note": "BBA is one of the most common degrees in Pakistan. University brand matters enormously — a LUMS or IBA BBA opens doors a generic BBA simply cannot.",
+    "saturation_note": "Extremely saturated — university brand and internship track record are the two decisive factors, not the degree itself.",
+    "remote_work_possible": false
+  },
+  "Accounting & Finance": {
+    "salary_min_pkr": 55000,
+    "salary_max_pkr": 200000,
+    "demand": "Medium",
+    "saturation": "High",
+    "growth_outlook": "Stable",
+    "market_trend": "Stable",
+    "top_employers_pakistan": [
+      "EY / KPMG / PwC / Deloitte",
+      "HBL / MCB / Meezan Bank",
+      "Corporate Finance Departments",
+      "SECP / SBP (Regulators)",
+      "Accounting Firms"
+    ],
+    "years_to_first_job": 4,
+    "jobs_after_3_years": [
+      "Audit Associate",
+      "Financial Analyst",
+      "Tax Consultant",
+      "Treasury Analyst",
+      "Management Accountant"
+    ],
+    "reality_note": "ACCA or ICAP certification alongside the degree dramatically boosts salary and employability. Pure degree holders face stiff competition from certified accountants.",
+    "saturation_note": "Saturated without professional certifications — ACCA or CFA changes the employment equation entirely.",
+    "remote_work_possible": false
+  },
+  "Psychology": {
+    "salary_min_pkr": 40000,
+    "salary_max_pkr": 120000,
+    "demand": "Low",
+    "saturation": "Medium",
+    "growth_outlook": "Slowly Growing",
+    "market_trend": "Emerging",
+    "top_employers_pakistan": [
+      "Private clinics / Hospitals",
+      "NGOs (mental health programs)",
+      "Corporate HR departments",
+      "Schools & universities",
+      "Private practice (self-employed)"
+    ],
+    "years_to_first_job": 9,
+    "jobs_after_3_years": [
+      "Counselor / Therapist",
+      "HR Officer",
+      "School Counselor",
+      "Clinical Assistant",
+      "Psychometrics Analyst"
+    ],
+    "reality_note": "Mental health awareness in Pakistan is rising fast, but formal job openings are still limited. An M.Phil or MS is almost mandatory for clinical roles and private practice.",
+    "saturation_note": "Not highly saturated yet, but salaries are very low — best prospects come from pursuing an M.Phil/MS and eventually building a private practice.",
+    "remote_work_possible": true
+  },
+  "Pharmacy": {
+    "salary_min_pkr": 60000,
+    "salary_max_pkr": 180000,
+    "demand": "Medium",
+    "saturation": "Medium",
+    "growth_outlook": "Stable",
+    "market_trend": "Stable",
+    "top_employers_pakistan": [
+      "GlaxoSmithKline Pakistan",
+      "Abbott Laboratories",
+      "Sanofi-Aventis Pakistan",
+      "Hospital pharmacy chains",
+      "DRAP (Drug Regulatory Authority)"
+    ],
+    "years_to_first_job": 4,
+    "jobs_after_3_years": [
+      "Clinical Pharmacist",
+      "Medical Sales Representative",
+      "Regulatory Affairs Officer",
+      "Hospital Pharmacist",
+      "Drug Inspector (DRAP)"
+    ],
+    "reality_note": "Pharm-D is a 5-year program. The pharma industry (GSK, Abbott) does organized campus recruitment. Medical sales rep is the most accessible first-job route.",
+    "saturation_note": "Balanced supply-demand overall — community pharmacy is crowded, but pharma industry and DRAP regulatory roles are selective and better compensated.",
+    "remote_work_possible": false
+  },
+  "MBBS": {
+    "salary_min_pkr": 80000,
+    "salary_max_pkr": 500000,
+    "demand": "High",
+    "saturation": "Low",
+    "growth_outlook": "Strong",
+    "market_trend": "Stable",
+    "top_employers_pakistan": [
+      "Government hospitals (PMDC)",
+      "Aga Khan University Hospital",
+      "Shaukat Khanum Cancer Hospital",
+      "CMH / Military hospitals",
+      "Private clinics & practice"
+    ],
+    "years_to_first_job": 12,
+    "jobs_after_3_years": [
+      "House Officer (mandatory 1 year)",
+      "Medical Officer (after house job)",
+      "GP in private practice",
+      "FCPS/residency trainee (specialist path)"
+    ],
+    "reality_note": "MBBS is a 5-year degree followed by a mandatory 1-year house job. Income is very low for the first 6-7 years. Specialization (FCPS) requires 5+ more years but is where real earning begins.",
+    "saturation_note": "High job security but requires 5+ years of study plus a house job before earning well — financial returns come very late compared to other fields.",
+    "remote_work_possible": false
+  }
+}

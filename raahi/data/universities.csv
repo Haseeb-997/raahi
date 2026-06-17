@@ -1,0 +1,92 @@
+university_name,university_short,city,program_name,degree_type,annual_fee_pkr,merit_cutoff_percentage,gender_policy,hostel_available,sector,ranking_tier
+FAST National University,FAST,Islamabad,BS CS,BS,230000,72,Co-ed,Yes,Private,A
+FAST National University,FAST,Islamabad,BS SE,BS,230000,70,Co-ed,Yes,Private,A
+FAST National University,FAST,Islamabad,BS AI,BS,235000,73,Co-ed,Yes,Private,A
+FAST National University,FAST,Islamabad,BS Data Science,BS,230000,70,Co-ed,Yes,Private,A
+FAST National University,FAST,Islamabad,BS EE,BS,225000,68,Co-ed,Yes,Private,A
+FAST National University,FAST,Lahore,BS CS,BS,240000,73,Co-ed,Yes,Private,A
+FAST National University,FAST,Lahore,BS SE,BS,240000,71,Co-ed,Yes,Private,A
+FAST National University,FAST,Lahore,BS AI,BS,245000,74,Co-ed,Yes,Private,A
+FAST National University,FAST,Lahore,BS Data Science,BS,240000,71,Co-ed,Yes,Private,A
+FAST National University,FAST,Lahore,BS EE,BS,235000,69,Co-ed,Yes,Private,A
+FAST National University,FAST,Karachi,BS CS,BS,235000,72,Co-ed,Yes,Private,A
+FAST National University,FAST,Karachi,BS SE,BS,235000,70,Co-ed,Yes,Private,A
+FAST National University,FAST,Karachi,BS AI,BS,240000,73,Co-ed,Yes,Private,A
+FAST National University,FAST,Karachi,BS Data Science,BS,235000,70,Co-ed,Yes,Private,A
+FAST National University,FAST,Karachi,BS EE,BS,230000,68,Co-ed,Yes,Private,A
+National University of Sciences & Technology,NUST,Islamabad,BS CS,BS,185000,83,Co-ed,Yes,Public,A
+National University of Sciences & Technology,NUST,Islamabad,BS SE,BS,180000,81,Co-ed,Yes,Public,A
+National University of Sciences & Technology,NUST,Islamabad,BS AI,BS,190000,84,Co-ed,Yes,Public,A
+National University of Sciences & Technology,NUST,Islamabad,BS Data Science,BS,185000,82,Co-ed,Yes,Public,A
+National University of Sciences & Technology,NUST,Islamabad,BS EE,BS,180000,80,Co-ed,Yes,Public,A
+National University of Sciences & Technology,NUST,Islamabad,BS ME,BS,178000,79,Co-ed,Yes,Public,A
+National University of Sciences & Technology,NUST,Islamabad,BS Civil,BS,175000,77,Co-ed,Yes,Public,A
+COMSATS University,COMSATS,Islamabad,BS CS,BS,112000,65,Co-ed,Yes,Public,B
+COMSATS University,COMSATS,Islamabad,BS SE,BS,110000,63,Co-ed,Yes,Public,B
+COMSATS University,COMSATS,Islamabad,BS AI,BS,115000,66,Co-ed,Yes,Public,B
+COMSATS University,COMSATS,Islamabad,BS Data Science,BS,112000,64,Co-ed,Yes,Public,B
+COMSATS University,COMSATS,Islamabad,BS EE,BS,108000,62,Co-ed,Yes,Public,B
+COMSATS University,COMSATS,Islamabad,BS ME,BS,105000,60,Co-ed,Yes,Public,B
+COMSATS University,COMSATS,Islamabad,BS Civil,BS,100000,58,Co-ed,Yes,Public,B
+COMSATS University,COMSATS,Islamabad,BBA,BS,98000,60,Co-ed,Yes,Public,B
+COMSATS University,COMSATS,Lahore,BS CS,BS,112000,64,Co-ed,Yes,Public,B
+COMSATS University,COMSATS,Lahore,BS SE,BS,110000,62,Co-ed,Yes,Public,B
+COMSATS University,COMSATS,Lahore,BS EE,BS,108000,61,Co-ed,Yes,Public,B
+University of Engineering & Technology,UET,Lahore,BS CS,BS,82000,79,Co-ed,Yes,Public,A
+University of Engineering & Technology,UET,Lahore,BS EE,BS,78000,77,Co-ed,Yes,Public,A
+University of Engineering & Technology,UET,Lahore,BS ME,BS,76000,75,Co-ed,Yes,Public,A
+University of Engineering & Technology,UET,Lahore,BS Civil,BS,72000,73,Co-ed,Yes,Public,A
+UET Taxila,UET Taxila,Taxila,BS CS,BS,65000,70,Co-ed,Yes,Public,B
+UET Taxila,UET Taxila,Taxila,BS EE,BS,60000,68,Co-ed,Yes,Public,B
+UET Taxila,UET Taxila,Taxila,BS ME,BS,60000,66,Co-ed,Yes,Public,B
+UET Taxila,UET Taxila,Taxila,BS Civil,BS,58000,64,Co-ed,Yes,Public,B
+Lahore University of Management Sciences,LUMS,Lahore,BS CS,BS,560000,88,Co-ed,Yes,Private,A
+Lahore University of Management Sciences,LUMS,Lahore,BS EE,BS,550000,86,Co-ed,Yes,Private,A
+Lahore University of Management Sciences,LUMS,Lahore,BBA,BS,575000,86,Co-ed,Yes,Private,A
+Lahore University of Management Sciences,LUMS,Lahore,BS Accounting & Finance,BS,565000,84,Co-ed,Yes,Private,A
+Institute of Business Administration,IBA,Karachi,BS CS,BS,178000,82,Co-ed,Yes,Public,A
+Institute of Business Administration,IBA,Karachi,BBA,BS,168000,84,Co-ed,Yes,Public,A
+Institute of Business Administration,IBA,Karachi,BS Accounting & Finance,BS,168000,81,Co-ed,Yes,Public,A
+Quaid-i-Azam University,QAU,Islamabad,BS CS,BS,45000,65,Co-ed,Yes,Public,B
+Quaid-i-Azam University,QAU,Islamabad,BS Psychology,BS,35000,60,Co-ed,Yes,Public,B
+Quaid-i-Azam University,QAU,Islamabad,BS Pharmacy,BS,52000,68,Co-ed,Yes,Public,B
+University of Lahore,UOL,Lahore,BS CS,BS,180000,57,Co-ed,Yes,Private,C
+University of Lahore,UOL,Lahore,BS SE,BS,175000,55,Co-ed,Yes,Private,C
+University of Lahore,UOL,Lahore,BS AI,BS,185000,58,Co-ed,Yes,Private,C
+University of Lahore,UOL,Lahore,MBBS,MBBS,360000,75,Co-ed,Yes,Private,C
+University of Lahore,UOL,Lahore,BS Pharmacy,BS,210000,63,Co-ed,Yes,Private,C
+University of Lahore,UOL,Lahore,BBA,BS,160000,54,Co-ed,Yes,Private,C
+University of Lahore,UOL,Lahore,BS Psychology,BS,145000,52,Co-ed,Yes,Private,C
+Bahria University,Bahria,Islamabad,BS CS,BS,215000,63,Co-ed,Yes,Private,B
+Bahria University,Bahria,Islamabad,BS SE,BS,210000,61,Co-ed,Yes,Private,B
+Bahria University,Bahria,Islamabad,BS EE,BS,205000,60,Co-ed,Yes,Private,B
+Bahria University,Bahria,Islamabad,BS ME,BS,200000,58,Co-ed,Yes,Private,B
+Bahria University,Bahria,Islamabad,BBA,BS,195000,60,Co-ed,Yes,Private,B
+Bahria University,Bahria,Karachi,BS CS,BS,215000,62,Co-ed,Yes,Private,B
+Bahria University,Bahria,Karachi,BS SE,BS,210000,60,Co-ed,Yes,Private,B
+Bahria University,Bahria,Karachi,BBA,BS,195000,59,Co-ed,Yes,Private,B
+Bahria University,Bahria,Lahore,BS CS,BS,212000,62,Co-ed,Yes,Private,B
+Bahria University,Bahria,Lahore,BS SE,BS,208000,60,Co-ed,Yes,Private,B
+Air University,AU,Islamabad,BS CS,BS,148000,68,Co-ed,Yes,Public,B
+Air University,AU,Islamabad,BS SE,BS,145000,66,Co-ed,Yes,Public,B
+Air University,AU,Islamabad,BS AI,BS,150000,68,Co-ed,Yes,Public,B
+Air University,AU,Islamabad,BS EE,BS,143000,65,Co-ed,Yes,Public,B
+Air University,AU,Islamabad,BS ME,BS,140000,63,Co-ed,Yes,Public,B
+Air University,AU,Islamabad,BBA,BS,132000,62,Co-ed,Yes,Public,B
+NED University of Engineering & Technology,NED,Karachi,BS CS,BS,72000,77,Co-ed,Yes,Public,A
+NED University of Engineering & Technology,NED,Karachi,BS EE,BS,68000,75,Co-ed,Yes,Public,A
+NED University of Engineering & Technology,NED,Karachi,BS ME,BS,66000,73,Co-ed,Yes,Public,A
+NED University of Engineering & Technology,NED,Karachi,BS Civil,BS,62000,71,Co-ed,Yes,Public,A
+University of Karachi,KU,Karachi,BS CS,BS,42000,60,Co-ed,Yes,Public,B
+University of Karachi,KU,Karachi,BS Psychology,BS,30000,55,Co-ed,Yes,Public,B
+University of Karachi,KU,Karachi,BS Pharmacy,BS,58000,66,Co-ed,Yes,Public,B
+University of Karachi,KU,Karachi,BS Accounting & Finance,BS,36000,57,Co-ed,Yes,Public,B
+University of the Punjab,PU,Lahore,BS CS,BS,56000,63,Co-ed,Yes,Public,B
+University of the Punjab,PU,Lahore,BS SE,BS,54000,61,Co-ed,Yes,Public,B
+University of the Punjab,PU,Lahore,BS Pharmacy,BS,72000,68,Co-ed,Yes,Public,B
+University of the Punjab,PU,Lahore,BS Psychology,BS,40000,57,Co-ed,Yes,Public,B
+University of the Punjab,PU,Lahore,BBA,BS,52000,60,Co-ed,Yes,Public,B
+University of the Punjab,PU,Lahore,BS Accounting & Finance,BS,50000,58,Co-ed,Yes,Public,B
+Aga Khan University,AKU,Karachi,MBBS,MBBS,600000,89,Co-ed,Yes,Private,A
+Aga Khan University,AKU,Karachi,BS Pharmacy,BS,270000,76,Co-ed,Yes,Private,A
+Aga Khan University,AKU,Karachi,BS Psychology,BS,255000,74,Co-ed,Yes,Private,A
